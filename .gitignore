@@ -1,3 +1,8 @@
+Welcome to TileDynasty, a project for a Multiplayer Online FPS Game, designed within Unity3D.
+
+Please read the instructions before delving deeper into the project.
+
+
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
@@ -24,3 +29,4 @@ ExportedObj/
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
+
