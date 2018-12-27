@@ -7,6 +7,6 @@ First personal project, focusing on getting some introduction on using the Steam
 <br><br>
 Code architecture is obviously far from optimal, due to the learning process along development. However many concepts understood during the journey has and will be put to use in projects current and future.
 <br><br><br>
-SETUP INSTRUCTIONS
+SETUP INSTRUCTIONS (Requires a Steam account - and can be used either in Offline or Online Mode)
 <br><br>
 TODO: Specify the Steam-Unity project workflow, and document.
