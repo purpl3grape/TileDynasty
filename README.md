@@ -9,3 +9,4 @@ Code architecture is obviously far from optimal, due to the learning process alo
 <br><br><br>
 SETUP INSTRUCTIONS
 <br><br>
+TODO: Specify the Steam-Unity project workflow, and document.
