@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: ac2936d8395dc614085368d5f0046a44
+timeCreated: 1462237247
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - MGLightFXPrefab: {instanceID: 0}
+  - MGHeavyFXPrefab: {instanceID: 0}
+  - RocketFXPrefab: {instanceID: 0}
+  - EnemyRocketFXPrefab2: {instanceID: 0}
+  - Rocket2Prefab: {instanceID: 0}
+  - GrenadeFXPrefab: {instanceID: 0}
+  - RailFXPrefab: {instanceID: 0}
+  - explosionFXPrefab: {instanceID: 0}
+  - asteroidExplosionFXPrefab: {instanceID: 0}
+  - grenadeExplosionFXPrefab: {instanceID: 0}
+  - hurtingSoundFXPrefab: {instanceID: 0}
+  - hitConfirmSoundFXPrefab: {instanceID: 0}
+  - missShotFXPrefab: {instanceID: 0}
+  - MGSoundPrefab: {instanceID: 0}
+  - HMGSoundPrefab: {instanceID: 0}
+  - Shot1: {instanceID: 0}
+  - Shot2: {instanceID: 0}
+  - Wave: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

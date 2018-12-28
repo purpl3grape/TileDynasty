@@ -1,0 +1,8 @@
+step:52
+radius:16
+posx:75
+posy:681
+sizex:41
+sizey:44
+place:4
+speed:1000
