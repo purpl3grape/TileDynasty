@@ -21,4 +21,4 @@ SETUP INSTRUCTIONS (Requires a Steam account - and can be used either in Offline
 <br>Update Steamworks.cs @ https://raw.githubusercontent.com/rlabrecque/SteamManager/master/SteamManager.cs
 <br>
 <br>
-<br>TODO: Specify the Steam-Unity project workflow, and document.
+<br>TODO: Specify the Steam-Unity project workflow for making and publishing updates to steam, and document process.
