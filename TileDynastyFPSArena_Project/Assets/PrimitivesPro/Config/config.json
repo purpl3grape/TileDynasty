@@ -1,8 +1,0 @@
-{
-  "GridSize":                100,
-  "GridDim":                 100,
-  "GridShow":                false,
-  "GridSnap":                true,
-  "VertexSnapping":          true,
-  "StickOverlappingPoints":  true
-}
