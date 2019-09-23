@@ -16,6 +16,11 @@ Code architecture is obviously far from optimal, due to the learning process alo
 <br>
 SETUP INSTRUCTIONS (Requires a Steam account - and can be used either in Offline or Online Mode)
 <br>
+<br>Select a scene and hit Play.
+<br>
+<br>
+<br><b>Only in case of any setup errors:</b>
+<br>
 <br>NOTE: Any Asset downloaded from AssetStore such as those listed below may require re-import or deletion if you do not have them already.
 <br>
 <br>Delete (Primitive Pro / Probuilder / PhotonChatApi / Photon Unity Networking / delete obfuscator)
